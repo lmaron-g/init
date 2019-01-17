@@ -1,1 +1,1 @@
-brary && rm -rf *42*
+cd ~/library && rm -rf *42*

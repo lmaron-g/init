@@ -1,1 +1,1 @@
-df -h /var/*
+du -h --max-depth=0 /var/*
