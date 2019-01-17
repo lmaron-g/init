@@ -1,0 +1,2 @@
+pidof sshd
+kill -9 pid
